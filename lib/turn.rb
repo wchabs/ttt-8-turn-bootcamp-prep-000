@@ -33,6 +33,6 @@ def position_taken?(board, index)
   return true
 end
 
-def turn
+def turn(board)
   
 end
